@@ -15,5 +15,5 @@
 
 ## ☕ Let’s Chat!
 
-Got a robotics, IoT, or general interesting idea?  
+Got a robotics, IoT, or generally interesting idea?  
 Drop me a line at [friedl.jak@gmail.com](mailto:friedl.jak@gmail.com) – I’d love to hear from you!  
